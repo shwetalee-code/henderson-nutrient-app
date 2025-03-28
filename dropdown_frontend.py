@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 
+st.markdown("## SCU/Henderson Farm Practicum 2025 Analytics Dashboard")
+
 # Load the dataset
 analysisDf = pd.read_csv("analysisDf_for_interactive.csv")
 
